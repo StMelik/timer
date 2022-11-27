@@ -1,0 +1,4 @@
+export const SET_CIRCLE_TIME = 'SET_CIRCLE_TIME';
+export const STOP_CIRCLE_TIMER = 'STOP_CIRCLE_TIMER';
+export const ADD_CIRCLE = 'ADD_CIRCLE';
+export const CLEAR_CIRCLE_LIST = 'CLEAR_CIRCLE_LIST';

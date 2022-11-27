@@ -1,0 +1,34 @@
+.exercise-table__buttons {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 5px;
+}
+
+.exercise-table__button {
+  font-weight: 700;
+  line-height: 0;
+  padding: 5px;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+
+.exercise-table__button_down {
+    background-color: #f38c8c;
+}
+
+.exercise-table__button_middle {
+    background-color: #ffff83;
+}
+
+.exercise-table__button_up {
+    background-color: #7fe57f;
+}
+
+.exercise-table__row_active {
+  background-color: #fffe45;
+}
+
+.exercise-table__row_done {
+  background-color: #b7f5b7;
+}
